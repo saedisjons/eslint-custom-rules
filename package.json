@@ -1,0 +1,8 @@
+{
+	"name": "eslint-plugin-saedisjons",
+	"version": "0.1.0",
+	"main": "index.js",
+	"peerDependencies": {
+		"eslint": "8.34.0"
+	}
+}
